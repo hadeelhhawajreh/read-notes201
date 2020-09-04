@@ -5,7 +5,7 @@
 
 > list of content that i will be cover :
 
-| repolink |      name     |  date |
+| repo_link |      name     |  date |
 |----------|:-------------:|------:|
 |          |               |       |
 |          |               |       |

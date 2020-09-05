@@ -1,4 +1,4 @@
- HTML ,CSS AND JAVASCRIPT 
+ HTML ,CSS AND ABC OF PROGRAMMING 
 ## 1. HTML 
 HTML is used to create web pages,e. You then add tags
 or elements to the words so that the browser knows what is a heading, where a paragraph begins and ends, and so on.
@@ -39,3 +39,75 @@ books; they tell your computer the IP address associated with the requested doma
 + The unique number that the DNS server returns to your computer allows your browser to contact the web server that hosts the website you requested. A web server is a computer that is constantly connected to the web, and is set up especially to send web pages to users.
 
 + The web server then sends the page you requested back to your web browser.
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+**The HTML code**  is made up of characters that live inside angled
+brackets — these are called HTML elements. Elements are usually
+made up of two tags: an opening tag and a closing tag. (The closing tag
+has an extra forward slash in it.) Each HTML element tells the browser
+something about the information that sits between its opening and
+closing tags
+``<p>`` opening tag
+``</p>`` closing tag
+
+Attributes provide additional information
+about the contents of an element. They appear
+on the opening tag of the element and are
+made up of two parts: a name and a value,
+separated by an equals sign.
+``<p lang="en-us">Paragraph in English</p>``
+``lang ``  Attribute Name
+``"en-us"`` Attribute Value
+
+``<body>`` Everything inside this element is
+shown inside the main browser
+window.
+``<head>``
+This contains information
+about the page (rather than
+information that is shown within
+the main part of the browser
+window that is highlighted in
+blue on the opposite page).
+You will usually find a`` <title>``
+element inside the`` <head>``
+element.
+``<title>``
+The contents of the`` <title>``
+element are either shown in the
+top of the browser, title tags will appear in the
+title bar (or tabs) at the top of
+the browser window
+
+ versions of HTML.
+| version   |  Released | properties |
+|----------|:-------------:|------:|
+| HTML4  |  1997 | Although HTML 4 had some presentational elements to control the appearance of pages, authors are not recommended to use them any more |
+| XHTML |    2000   |   it was decided that HTML 4 should be reformulated to follow the rules of XML and it was renamed XHTML.  |
+| HTML5 | latest version-2000  |   In HTML5, web page authors do not need to close all tags, and new elements and attributes will be introduced.  |
+ 
+
+``DOCTYPEs``Because there have been
+several versions of HTML, each
+web page should begin with a
+DOCTYPE declaration to tell a
+browser which version of HTML
+the page is using
+
+**Comments in HTML** ``<!-- comment goes here -->``
+It is a good idea to add
+comments to your code because,
+no matter how familiar you
+are with the page at the time
+of writing it, when you come
+back to it later (or if someone
+else needs to look at the code),
+comments will make it much
+easier to understand
+
+| ID Attributes|Class Atrributes|
+|--------------|----------------|
+| Every HTML element can carry  the id attribute. It is used to uniquely identify that element from other elements on the page. Its value should start with a letter or an underscore (not a number or any other character). |   Sometimes, rather than uniquely identifying one element within a document, you will want a way to identify several elements |
+|Block Elements |INline Elements |
+|--------------|----------------|
+|Some elements will always appear to start on a new line in the browser window. These are known as block level elements``.<h1>``, ``<p>``,`` <ul>``, and`` <li>.``|Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements. Examples of inline elements are ``<a>``, ``<b>``, ``<em>``, and ``<img>``.|

@@ -5,7 +5,7 @@
 
 > list of content that i will be do it :) 
 
-| repo_link |      name     |  date |
+| repo_link |      name     |  date   |
 |----------|:-------------:|------:|
 |[Read_01](https://hadeelhhawajreh.github.io/read-notes201/class-01)         |  Introductory HTML and JavaScript            |4-9-2020       |
 | Read_02      |      HTML Text, CSS Introduction, and Basic JavaScript Instructions         |       |

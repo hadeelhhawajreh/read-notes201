@@ -3,7 +3,7 @@
 
 *it is a repo for assignments that i will do in github repo.*
 
-> list of content that i will be cover :
+> list of content that i will be do it :) 
 
 | repo_link |      name     |  date |
 |----------|:-------------:|------:|

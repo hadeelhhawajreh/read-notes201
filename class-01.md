@@ -81,11 +81,15 @@ the browser window
 
  versions of HTML.
 | version   |  Released | properties |
-|----------|:-------------:|------:|
-| HTML4  |  1997 | Although HTML 4 had some presentational elements to control the appearance of pages, authors are not recommended to use them any more |
+|-----------|:----------:|----------:|
+| HTML4     |  1997 | Although HTML 4 had some presentational elements to control the appearance of pages, authors are not recommended to use them any more |
 | XHTML |    2000   |   it was decided that HTML 4 should be reformulated to follow the rules of XML and it was renamed XHTML.  |
 | HTML5 | latest version-2000  |   In HTML5, web page authors do not need to close all tags, and new elements and attributes will be introduced.  |
  
+
+HTML4 VS HTML5 STRUCTURE :
+![HTML4 VS HTML5 IMG ](https://s3.amazonaws.com/viking_education/web_development/web_app_eng/html5_sectioning_high_level.jpg)
+
 
 ``DOCTYPEs``Because there have been
 several versions of HTML, each
@@ -108,7 +112,10 @@ easier to understand
 | ID Attributes|Class Atrributes|
 |--------------|----------------|
 | Every HTML element can carry  the id attribute. It is used to uniquely identify that element from other elements on the page. Its value should start with a letter or an underscore (not a number or any other character). |   Sometimes, rather than uniquely identifying one element within a document, you will want a way to identify several elements |
-|Block Elements |INline Elements |
+
+
+
+|Block Elements |Inline Elements |
 |--------------|----------------|
 |Some elements will always appear to start on a new line in the browser window. These are known as block level elements``.<h1>``, ``<p>``,`` <ul>``, and`` <li>.``|Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements. Examples of inline elements are ``<a>``, ``<b>``, ``<em>``, and ``<img>``.|
 

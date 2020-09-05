@@ -1,4 +1,4 @@
- HTML ,CSS AND ABC OF PROGRAMMING 
+duckett_html.
 ## 1. HTML 
 HTML is used to create web pages,e. You then add tags
 or elements to the words so that the browser knows what is a heading, where a paragraph begins and ends, and so on.

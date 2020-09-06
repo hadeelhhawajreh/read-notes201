@@ -122,6 +122,25 @@ and are separated by a colon.
 + A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a statement. Statements should end with a semicolon. 
 
 + You should write comments to explain what your code does. They help make your code easier to read and understand. This can help you and others who read your code.
-|MULTI-LINE COMM ENTS |SINGLE-LINE COMMENTS|
-|-------------------:|--------------------:|
-|To write a comment that stretches over more than one line, you use a multi-line comment, starting with the ``/* characters and ending with the */ characters.`` |In a single line comment, anything that follows the two forward slash characters I/ on that line will not be processed by the JavaScript interpreter|
+
+
+ |MULTI-LINE COMM ENTS| SINGLE-LINE COMMENTS|
+ |--------------------|:-------------------:|
+ |To write a comment that stretches over more than one line, you use a multi-line comment, starting with the ``/* characters and ending with the */ characters.``|In a single line comment, anything that follows the two forward slash characters I/ on that line will not be processed by the JavaScript interpreter|
+|M ulti-line comment s are often used for descriptions of how the script works, or to prevent a section of the script from running when testing it| Singleline comments are often used for short descriptions of what the code is doing.|
+
++ VARIABLES :
+  ``var x=5;``
+  + RULES FOR NAMING VARIABLES
+  +The name must begin with a letter, dollar sign ($),or an underscore (_). It must not start with a number. 
+  + The name can contain letters, numbers, dollar sign ($), or an underscore (_). Note that you must not use a dash(-) or a period (.) in a variable name
+  + You cannot use keywords or reserved words.
+  + All variables are case sensitive, so score and Score would be different variable names
+
++ DATA TYPES 
+
+ |NUMERIC DATA TYPE            | STRING DATA TYPE  |  BOOLEAN DATA TYPE  |
+ |-------------------|:---------------------------------------:|----------:|
+ |The numeric data type handles numbers. |The strings data type consists of letters and other characters. |Boolean data types can have one of two values: true or false.|
+ |Example: 7.5|'hi,how are you'|true|
+ 

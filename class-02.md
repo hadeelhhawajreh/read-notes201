@@ -117,6 +117,11 @@ and are separated by a colon.
 *  Rules are made up of selectors (that specify the elements the rule applies to) and declarations (that indicate what these elements should look like).
 *  Different types of selectors allow you to target your rules at different elements.
 *  Declarations are made up of two parts: the properties of the element that you want to change, and the values of those properties. For example, the font-family property sets
-
+----------------------------------------------------------------------------------------------------------
 
 + A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a statement. Statements should end with a semicolon. 
+
++ You should write comments to explain what your code does. They help make your code easier to read and understand. This can help you and others who read your code.
+|MULTI-LINE COMM ENTS |SINGLE-LINE COMMENTS|
+|-------------------:|--------------------:|
+|To write a comment that stretches over more than one line, you use a multi-line comment, starting with the ``/* characters and ending with the */ characters.`` |In a single line comment, anything that follows the two forward slash characters I/ on that line will not be processed by the JavaScript interpreter|

@@ -75,6 +75,22 @@ This aligns the first line of the
 surrounding text with the bottom
 of the image.
  
+ There are three rules to remember when you
+are creating images for your website which are
+summarized below. We go into greater detail
+on each topic over the next nine pages  
+
+1. Save images in
+the right format
+2. Save images at
+the right size
+3. Use the correct
+resolution
+
+
+
+
+
 The properties that allow you to control the appearance of text can be split into two groups:
 
 ● Those that directly affect the font and its appearance (including the typeface, whether it is regular, bold or italic, and the size of the text)

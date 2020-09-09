@@ -10,8 +10,8 @@
 |[Read_01](https://hadeelhhawajreh.github.io/read-notes201/class-01)         |  Introductory HTML and JavaScript            |4-9-2020       |
 | [Read_02](https://hadeelhhawajreh.github.io/read-notes201/class-02)      |      HTML Text, CSS Introduction, and Basic JavaScript Instructions         | 6-9-2020      |
 | [Read_03](https://hadeelhhawajreh.github.io/read-notes201/class-03)  |  HTML Lists, CSS Boxes, JS Control Flow             |  7-9-2020     |
-|  [Read_04 ](https://hadeelhhawajreh.github.io/read-notes201/class-04) |   HTML Links, CSS Layout, JS Functions         | 8-9-2020      |
-|  [Read_05 ] (https://hadeelhhawajreh.github.io/read-notes201/class-05)     |    HTML Images; CSS Color & Text      |    9-9-2020   |
+|  [Read_04 ](https://hadeelhhawajreh.github.io/read-notes201/class-04) |   HTML Links, CSS Layout, JS Functions         | 8-9- 2020      |
+|  [Read_05 ](https://hadeelhhawajreh.github.io/read-notes201/class-05)     |    HTML Images; CSS Color & Text      |    9-9- 2020   |
 | Read_06|        JS Object Literals; The DOM       |       |
 | Read_07|       HTML Tables; JS Constructor Functions        |       |
 |        Read_08   |        More CSS Layout       |       |

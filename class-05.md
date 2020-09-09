@@ -1,1 +1,136 @@
+Readings : Images, Color, Text
 
+
+The properties that allow you to control the appearance of text can be split into two groups:
+● Those that directly affect the font and its appearance (including the typeface, whether it is regular, bold or italic, and the size of the text)
+● Those that would have the same effect on text no matter what font you were using (including the color of text and the spacing between words and letters)
+
+*Choosing a Typeface for your Website*
+When choosing a typeface, it is important to understand that a browser will usually only display it if it's installed on that user's computer As a result, sites often use a small set of typefaces that are installed on most computers .
+
+Browsers are supposed to support at least one typeface from each of the groups above. For this reason, it is common to add the generic font  name after your preferred choice of typefaces.
+For example, if you wanted serif type, you could write the following: ``font-family: Georgia, Times, serif;``
+
+ Typefaces are subject to copyright, so the techniques you can choose from are limited by their respective licenses
+ 
+ + Specifying Typefaces
+   + font-family :The font-family property allows you to specify the typeface that should be used for any text inside the element(s) to which a CSS rule applies. The value of this      property is the name of the typeface you want to use
+     ``body { font-family: Georgia, Times, serif;}``
+   + Size of Type 
+     + font-size
+     The font-size property enables you to specify a size for the font. There are several ways to specify the size of a font. The most common are:
+
+      + pixels Pixels are commonly used because they allow web designers very precise control over how much space their text takes up. The number of pixels is  followed by the       letters px. percentages The default size of text in browsers is 16px. So a size of 75% would be the equivalent of 12px, and 200% would be 32px.
+      + ems An em is equivalent to the width of a letter m.
+       `` body {font-family: Arial, Verdana, sans-serif;font-size: 12px;}``
+         `` h1 {font-size: 200%;}``
+         ``h2 {font-size: 1.3em;}``
+         
+         
+  + More Font Choice
+  
+   allows you to use a font, even if it is not installed on the computer of the person browsing, by allowing you to specify a path to a copy of the font,    which will be downloaded if it is not on the user's machine
+
+**font-weight**
+
+The font-weight propertyallows you to create bold text. There are two values that this property commonly takes:
+ + normal This causes text to appear at a normal weight.
+ + bold This causes text to appear bold.
+
+**font-style**
+
+ If you want to create italic text, you can use the font-style property. There are three values this property can take:
+ + normal This causes text to appear in a normal style (as opposed to italic or oblique).
+ + italic This causes text to appear italic.
+ + oblique This causes text to appear oblique
+ 
+**text-transform**
+
+ The text-transform property is used to change the case of text giving it one of the following values:
+ + uppercase This causes the text to appear uppercase.
+ + lowercase This causes the text to appear lowercase.
+ + capitalize This causes the first letter of each word to appear capitalized.
+ 
+ **text-decoration**
+ 
+ The text-decoration property allows you to specify the following values:
+ + none This removes any decoration already applied to the text. underline This adds a line underneath the text.
+ + overline This adds a line over the top of  the text.
+ + line-through This adds a line through words.
+ + blink This animates the text to make it flash on and off (however this is generally frowned upon, as it is considered rather annoying).
+ 
+ **line-height**
+ 
+ Leading (pronounced ledding) is a term typographers use for the vertical space between lines of text. 
+  ``p {line-height: 1.4em;}``
+  
+  **letter-spacing, word-spacing**
+  You can also control the gap
+between words using the
+word-spacing property.
+When you specify a value for
+these properties, it should
+be given in ems, and it will be
+added on top of the default value
+specified by the font.
+
+**The text-align**
+property allows
+you to control the alignment of
+text. The property can take one
+of four values:
++ left
+This indicates that the text
+should be left-aligned.
++ right
+This indicates that the text
+should be right-aligned.
+center
+This allows you to center text.
++ justify
+This indicates that every line in
+a paragraph, except the last line,
+should be set to take up the full
+width of the containing box.
+
+It is more commonly used with
+inline elements such as <img>,
+<em>, or <strong> elements.
+When used with these elements,
+it performs a task very similar to
+the HTML align attribute used
+on the <img> element, which
+you met on pages 103-106. The
+values it can take are:
++ baseline
++ sub
++ super
++ top
++ text-top
++ middle
++ bottom
++ text-bottom
+  
+ **Indenting Text** 
+  text-indent
+    ``text-indent: -9999px;``.
+    
+ The text-shadow property has become commonly used despite lacking support in all browsers..
+  + The value of this property is
+quite complicated because it can
+take three lengths and a color for
+the drop shadow.
+The first length indicates how
+far to the left or right the shadow
+should fall.
+ + The second value indicates the
+distance to the top or bottom
+that the shadow should fall.
++ The third value is optional and
+specifies the amount of blur that
+should be applied to the drop
+shadow.
++ The fourth value is the color of
+the drop shadow.
+
+ ``text-shadow: 1px 1px 0px #000000;``

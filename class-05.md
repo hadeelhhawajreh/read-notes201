@@ -134,3 +134,40 @@ shadow.
 the drop shadow.
 
  ``text-shadow: 1px 1px 0px #000000;``
+ 
+ **Styling Links**
+:link, :visited
+ In CSS, there are two pseudoclasses that allow you to set
+different styles for links that
+have and have not yet been  visited.
++ :link
+This allows you to set styles
+for links that have not yet been visited.
++ :visited
+This allows you to set styles for
+links that have been clicked on. 
++ :hover
+This is applied when a user
+hovers over an element with a
+pointing device such as a mouse.
+This has commonly been used
+to change the appearance of
+links and buttons when a user
+places their cursor over them. 
+
++ :active
+This is applied when an element
+is being activated by a user; for
+example, when a button is being
+pressed or a link being clicked.
+Sometimes this is used to make
+a button or link feel more like it
+is being pressed by changing the
+style or position of the element
+slightly.
++ :focus
+This is applied when an element
+has focus. Any element that
+you can interact with, such as a
+link you can click on or any form
+control can have focus.

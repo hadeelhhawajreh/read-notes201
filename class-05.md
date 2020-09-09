@@ -198,14 +198,14 @@ the HTML align attribute used
 on the <img> element, which
 you met on pages 103-106. The
 values it can take are:
-+ baseline
-+ sub
-+ super
-+ top
-+ text-top
-+ middle
-+ bottom
-+ text-bottom
++ `` baseline``
++ `` sub``
++ ``super``
++  ``top``
++  ``text-top``
++  ``middle``
++  ``bottom``
++  ``text-bottom``
   
  **Indenting Text** ..
  
@@ -234,17 +234,17 @@ the drop shadow.
  
  **Styling Links**..
  
-:link, :visited
+``:link, :visited``
  In CSS, there are two pseudoclasses that allow you to set
 different styles for links that
 have and have not yet been  visited.
-+ :link
++`` :link``
 This allows you to set styles
 for links that have not yet been visited.
 + :visited
 This allows you to set styles for
 links that have been clicked on. 
-+ :hover
++ ``:hover``
 This is applied when a user
 hovers over an element with a
 pointing device such as a mouse.
@@ -253,7 +253,7 @@ to change the appearance of
 links and buttons when a user
 places their cursor over them. 
 
-+ :active
++ ``:active``
 This is applied when an element
 is being activated by a user; for
 example, when a button is being
@@ -263,7 +263,7 @@ a button or link feel more like it
 is being pressed by changing the
 style or position of the element
 slightly.
-+ :focus
++ ``:focus``
 This is applied when an element
 has focus. Any element that
 you can interact with, such as a

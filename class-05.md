@@ -1,8 +1,84 @@
 Readings : Images, Color, Text
 
+``<img>``
+To add an image into the page
+you need to use an ``<img>``
+element. This is an empty
+element (which means there is
+no closing tag). It must carry the
+following two attributes:
+``src``
+This tells the browser where
+it can find the image file. This
+will usually be a relative URL
+pointing to an image on your
+own site. (Here you can see that
+the images are in a child folder
+called images — relative URLs
+were covered on pages 83-84).
+``alt``
+This provides a text description
+of the image which describes the
+image if you cannot see it.
+``title``
+You can also use the title
+attribute with the ``<img>`` element
+to provide additional information
+about the image. Most browsers
+will display the content of this
+attribute in a tootip when the
+user hovers over the image.
 
+You will also often see an ``<img>``
+element use two other attributes
+that specify its size:
+``height``
+This specifies the height of the
+image in pixels.
+``width``
+This specifies the width of the
+image in pixels.
+
+``align ``
+The align attribute was
+commonly used to indicate how
+the other parts of a page should
+flow around an image. It has
+been removed from HTML5
+and new websites should use
+CSS to control the alignment of
+images 
+The align attribute can take these horizontal values:
++ ``left``
+This aligns the image to the left
+(allowing text to flow around its
+right-hand side).
+
++ ``right``
+This aligns the image to the right (allowing text to flow around its left-hand side).
+
+There are three values that the
+align attribute can take that
+control how the image should
+align vertically with the text that
+surrounds it:
++ ``top``
+This aligns the first line of the
+surrounding text with the top of
+the image.
++ ``middle``
+This aligns the first line of the
+surrounding text with the middle
+of the image.
++ ``bottom``
+This aligns the first line of the
+surrounding text with the bottom
+of the image.
+ 
 The properties that allow you to control the appearance of text can be split into two groups:
+
 ● Those that directly affect the font and its appearance (including the typeface, whether it is regular, bold or italic, and the size of the text)
+
 ● Those that would have the same effect on text no matter what font you were using (including the color of text and the spacing between words and letters)
 
 *Choosing a Typeface for your Website*

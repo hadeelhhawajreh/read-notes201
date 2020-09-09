@@ -85,7 +85,10 @@ the right format
 2. Save images at
 the right size
 3. Use the correct
-resolution
+resolution..
+
+
+![img](https://th.bing.com/th/id/OIP.40kKvq8hsJkGND3BpSmyBQHaHa?w=164&h=180&c=7&o=5&dpr=1.25&pid=1.7)
 
 
 
@@ -166,7 +169,8 @@ be given in ems, and it will be
 added on top of the default value
 specified by the font.
 
-**The text-align**
+**The text-align** 
+
 property allows
 you to control the alignment of
 text. The property can take one
@@ -203,7 +207,8 @@ values it can take are:
 + bottom
 + text-bottom
   
- **Indenting Text** 
+ **Indenting Text** ..
+ 
   text-indent
     ``text-indent: -9999px;``.
     
@@ -227,7 +232,8 @@ the drop shadow.
 
  ``text-shadow: 1px 1px 0px #000000;``
  
- **Styling Links**
+ **Styling Links**..
+ 
 :link, :visited
  In CSS, there are two pseudoclasses that allow you to set
 different styles for links that

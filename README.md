@@ -12,7 +12,7 @@
 | [Read_03](https://hadeelhhawajreh.github.io/read-notes201/class-03)  |  HTML Lists, CSS Boxes, JS Control Flow             |  7-9-2020     |
 |  [Read_04 ](https://hadeelhhawajreh.github.io/read-notes201/class-04) |   HTML Links, CSS Layout, JS Functions         | 8-9- 2020      |
 |  [Read_05 ](https://hadeelhhawajreh.github.io/read-notes201/class-05)     |    HTML Images; CSS Color & Text      |    9-9- 2020   |
-| Read_06|        JS Object Literals; The DOM       |       |
+| [Read_06](https://hadeelhhawajreh.github.io/read-notes201/class-06)|        JS Object Literals; The DOM       |   1-9-2020    |
 | Read_07|       HTML Tables; JS Constructor Functions        |       |
 |        Read_08   |        More CSS Layout       |       |
 |     Read_09      |    Forms and Events           |       |

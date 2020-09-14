@@ -14,7 +14,7 @@
 |  [Read_05 ](https://hadeelhhawajreh.github.io/read-notes201/class-05)     |    HTML Images; CSS Color & Text      |    9-9- 2020   |
 | [Read_06](https://hadeelhhawajreh.github.io/read-notes201/class-06)|        JS Object Literals; The DOM       |   12-9-2020    |
 | [Read_07](https://hadeelhhawajreh.github.io/read-notes201/class-07)|       HTML Tables; JS Constructor Functions     14-9-2020   |       |
-|        Read_08   |        More CSS Layout       |       |
+|       [ Read_08 ](https://hadeelhhawajreh.github.io/read-notes201/class-08) |        More CSS Layout       |  15-9-2020     |
 |     Read_09      |    Forms and Events           |       |
 |   Read_10        |     JS Debugging          |       |
 |    Read_11       |           Assorted Topics    |       |

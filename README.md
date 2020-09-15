@@ -15,7 +15,7 @@
 | [Read_06](https://hadeelhhawajreh.github.io/read-notes201/class-06)|        JS Object Literals; The DOM       |   12-9-2020    |
 | [Read_07](https://hadeelhhawajreh.github.io/read-notes201/class-07)|       HTML Tables; JS Constructor Functions     14-9-2020   |       |
 |       [ Read_08 ](https://hadeelhhawajreh.github.io/read-notes201/class-08) |        More CSS Layout       |  15-9-2020     |
-|     Read_09      |    Forms and Events           |       |
+|     [ Read_09 ](https://hadeelhhawajreh.github.io/read-notes201/class-09)|    Forms and Events           |    16-9-2020   |
 |   Read_10        |     JS Debugging          |       |
 |    Read_11       |           Assorted Topics    |       |
 |       Read_12    |  Docs for the HTML (canvas) Element & Chart.js             |       |

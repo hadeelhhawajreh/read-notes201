@@ -1,5 +1,6 @@
 Audio ,vedio ,...
-HTML5 comes with elements for embedding rich media in documents — <video> and <audio> — which in turn come with their own APIs for controlling playback, seeking, etc. This article shows you how to do common tasks such as creating custom playback controls.
+
+*HTML5 comes with elements for embedding rich media in documents — <video> and <audio> — which in turn come with their own APIs for controlling playback, seeking, etc. This article shows you how to do common tasks such as creating custom playback controls.*
   
   The HTML Video element (<video>) embeds a media player which supports video playback into the document. You can use <video> for audio content as well, but the <audio> element may provide a more appropriate user experience.
 
@@ -50,6 +51,8 @@ The HTML <audio> element is used to embed sound content in documents. It may con
             <code>audio</code> element.``
 ``</audio>``
 
+![v](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJFLM6uAPMfE0KLnwCfNAvoIrwdUUa8i6xTg&usqp=CAU)
+
 
 **Attributes**
 
@@ -71,6 +74,8 @@ This enumerated attribute is intended to provide a hint to the browser about wha
 + src
 The URL of the audio to embed. This is subject to HTTP access controls. This is optional; you may instead use the <source> element within the audio block to specify the audio to embed.
 [audio](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio)
+[a](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT07C4a__cUGyhZAixgH7YVhooM898gnpwdCg&usqp=CAU)
+[a2](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcThYc7dQ5Hu85374yyeVTgqKaCXo_BL5xsLmQ&usqp=CAU)
 
 
 **CSS background**

@@ -71,3 +71,57 @@ This enumerated attribute is intended to provide a hint to the browser about wha
 + src
 The URL of the audio to embed. This is subject to HTTP access controls. This is optional; you may instead use the <source> element within the audio block to specify the audio to embed.
 [audio](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio)
+
+
+**CSS background**
+
+The background-color property specifies the background color of an element.
+
+
+``body {``
+``  background-color: lightblue;``
+``}``
+
+- CSS background-color
+The background-color property specifies the background color of an element.
+
+- CSS background-image
+The background-image property specifies an image to use as the background of an element.
+
+By default, the image is repeated so it covers the entire elemen
+
+- CSS background-repeat
+By default, the background-image property repeats an image both horizontally and vertically.
+
+Some images should be repeated only horizontally or vertically, or they will look strange
+If the image above is repeated only horizontally (``background-repeat: repeat-x;``), the background will look better:
+Showing the background image only once is also specified by the background-repeat property:  ``background-repeat: no-repeat;``
+ To repeat an image vertically, set`` background-repeat: repeat-y;``
+
++ CSS background-position
+The background-position property is used to specify the position of the background image.
+
+- left top
+
+- left center
+
+- left bottom
+
+- center top
+
+- center center
+
+- center bottom
+
+- right top
+
+- right center
+
+- right bottom
+
++ CSS background-attachment
+The background-attachment property specifies whether the background image should scroll or be fixed (will not scroll with the rest of the page):
+
+  ``background-attachment: fixed;``
+  ``background-attachment: scroll;``
+

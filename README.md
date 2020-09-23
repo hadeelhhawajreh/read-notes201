@@ -19,6 +19,6 @@
 |   [READ-10](https://hadeelhhawajreh.github.io/read-notes201/class-10)        |     JS Debugging          |    16-9-2020   |
 |    [READ-11](https://hadeelhhawajreh.github.io/read-notes201/class-11)    |           Assorted Topics    | 19-9-2020 |
 |       [READ-12](https://hadeelhhawajreh.github.io/read-notes201/class-12)    |  Docs for the HTML (canvas) Element & Chart.js             | 20-9-2020      |
-|[READ-13](https://hadeelhhawajreh.github.io/read-notes201/class-13)|           Local Storage    |  91-9-202     |
-|  Read_14     |        CSS Transforms, Transitions, and Animations       |       |
-|Read_15|           What Google Learned About Teams    |       |
+|[READ-13](https://hadeelhhawajreh.github.io/read-notes201/class-13)|           Local Storage    |  19-9-202     |
+| [READ-14](https://hadeelhhawajreh.github.io/read-notes201/class-14)     |        CSS Transforms, Transitions, and Animations       |    23-9-2020   |
+|[READ-14B](https://hadeelhhawajreh.github.io/read-notes201/class-14b)|           What Google Learned About Teams    |    23-9-20020   |
